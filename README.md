@@ -1,2 +1,2 @@
-# openai-api
-Generative AI Projects with OpenAI
+# Open API Implementations
+Planning a trip to Paris with OpenAI API
